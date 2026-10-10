@@ -1,4 +1,3 @@
-Dart
 void main() {
   List<int> calificaciones = [85, 67, 92, 74, 58];
   
